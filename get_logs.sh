@@ -1,6 +1,5 @@
 #!/bin/bash
-#CentOS
-#jkhondhu - lrsupport - indexer box 
+#CentOS #jkhondhu - lrsupport - DataIndexer
 
 echo "Creating output temp dir..."
 OUTPUT_DIR=/tmp/$(hostname)-$(date +%F-%H%M%S)
